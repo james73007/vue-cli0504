@@ -1,5 +1,6 @@
 # vue-cli0504
 
+### GitHub Pages: https://james73007.github.io/vue-cli0504/dist/#/
 ## Project setup
 ```
 npm install
